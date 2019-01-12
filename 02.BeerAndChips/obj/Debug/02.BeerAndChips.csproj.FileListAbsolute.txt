@@ -1,0 +1,7 @@
+C:\Users\someo\source\repos\Exam28And29July2018\02.BeerAndChips\bin\Debug\02.BeerAndChips.exe.config
+C:\Users\someo\source\repos\Exam28And29July2018\02.BeerAndChips\bin\Debug\02.BeerAndChips.exe
+C:\Users\someo\source\repos\Exam28And29July2018\02.BeerAndChips\bin\Debug\02.BeerAndChips.pdb
+C:\Users\someo\source\repos\Exam28And29July2018\02.BeerAndChips\obj\Debug\02.BeerAndChips.csprojAssemblyReference.cache
+C:\Users\someo\source\repos\Exam28And29July2018\02.BeerAndChips\obj\Debug\02.BeerAndChips.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam28And29July2018\02.BeerAndChips\obj\Debug\02.BeerAndChips.exe
+C:\Users\someo\source\repos\Exam28And29July2018\02.BeerAndChips\obj\Debug\02.BeerAndChips.pdb

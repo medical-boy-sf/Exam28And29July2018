@@ -7,7 +7,7 @@
     <ProjectGuid>{BBB23B84-232B-41BB-91B1-4FAA5FD66AFE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_03.GameStatistics</RootNamespace>
-    <AssemblyName>_03.GameStatistics</AssemblyName>
+    <AssemblyName>03.GameStatistics</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

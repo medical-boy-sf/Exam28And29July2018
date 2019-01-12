@@ -1,0 +1,7 @@
+C:\Users\someo\source\repos\Exam28And29July2018\02.FootballKit\bin\Debug\02.FootballKit.exe.config
+C:\Users\someo\source\repos\Exam28And29July2018\02.FootballKit\bin\Debug\02.FootballKit.exe
+C:\Users\someo\source\repos\Exam28And29July2018\02.FootballKit\bin\Debug\02.FootballKit.pdb
+C:\Users\someo\source\repos\Exam28And29July2018\02.FootballKit\obj\Debug\02.FootballKit.csprojAssemblyReference.cache
+C:\Users\someo\source\repos\Exam28And29July2018\02.FootballKit\obj\Debug\02.FootballKit.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam28And29July2018\02.FootballKit\obj\Debug\02.FootballKit.exe
+C:\Users\someo\source\repos\Exam28And29July2018\02.FootballKit\obj\Debug\02.FootballKit.pdb

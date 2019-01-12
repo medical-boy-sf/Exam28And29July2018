@@ -1,0 +1,6 @@
+C:\Users\someo\source\repos\Exam28And29July2018\03.FootballSouvenirs\bin\Debug\03.FootballSouvenirs.exe.config
+C:\Users\someo\source\repos\Exam28And29July2018\03.FootballSouvenirs\bin\Debug\03.FootballSouvenirs.exe
+C:\Users\someo\source\repos\Exam28And29July2018\03.FootballSouvenirs\bin\Debug\03.FootballSouvenirs.pdb
+C:\Users\someo\source\repos\Exam28And29July2018\03.FootballSouvenirs\obj\Debug\03.FootballSouvenirs.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam28And29July2018\03.FootballSouvenirs\obj\Debug\03.FootballSouvenirs.exe
+C:\Users\someo\source\repos\Exam28And29July2018\03.FootballSouvenirs\obj\Debug\03.FootballSouvenirs.pdb

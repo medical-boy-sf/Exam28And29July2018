@@ -1,0 +1,6 @@
+C:\Users\someo\source\repos\Exam28And29July2018\03.GameStatistics\bin\Debug\03.GameStatistics.exe.config
+C:\Users\someo\source\repos\Exam28And29July2018\03.GameStatistics\bin\Debug\03.GameStatistics.exe
+C:\Users\someo\source\repos\Exam28And29July2018\03.GameStatistics\bin\Debug\03.GameStatistics.pdb
+C:\Users\someo\source\repos\Exam28And29July2018\03.GameStatistics\obj\Debug\03.GameStatistics.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam28And29July2018\03.GameStatistics\obj\Debug\03.GameStatistics.exe
+C:\Users\someo\source\repos\Exam28And29July2018\03.GameStatistics\obj\Debug\03.GameStatistics.pdb

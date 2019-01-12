@@ -1,0 +1,7 @@
+C:\Users\someo\source\repos\Exam28And29July2018\01.Trip To World Cup\bin\Debug\01.Trip To World Cup.exe.config
+C:\Users\someo\source\repos\Exam28And29July2018\01.Trip To World Cup\bin\Debug\01.Trip To World Cup.exe
+C:\Users\someo\source\repos\Exam28And29July2018\01.Trip To World Cup\bin\Debug\01.Trip To World Cup.pdb
+C:\Users\someo\source\repos\Exam28And29July2018\01.Trip To World Cup\obj\Debug\01.Trip To World Cup.csprojAssemblyReference.cache
+C:\Users\someo\source\repos\Exam28And29July2018\01.Trip To World Cup\obj\Debug\01.Trip To World Cup.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam28And29July2018\01.Trip To World Cup\obj\Debug\01.Trip To World Cup.exe
+C:\Users\someo\source\repos\Exam28And29July2018\01.Trip To World Cup\obj\Debug\01.Trip To World Cup.pdb
