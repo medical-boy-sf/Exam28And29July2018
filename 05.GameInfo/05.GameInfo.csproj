@@ -7,7 +7,7 @@
     <ProjectGuid>{7D9CCBFA-3EB5-4A99-ACFD-CD34F12B9605}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_05.GameInfo</RootNamespace>
-    <AssemblyName>_05.GameInfo</AssemblyName>
+    <AssemblyName>05.GameInfo</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

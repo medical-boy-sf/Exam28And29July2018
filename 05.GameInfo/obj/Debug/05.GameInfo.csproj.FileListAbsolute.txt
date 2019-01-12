@@ -1,0 +1,7 @@
+C:\Users\someo\source\repos\Exam28And29July2018\05.GameInfo\bin\Debug\05.GameInfo.exe.config
+C:\Users\someo\source\repos\Exam28And29July2018\05.GameInfo\bin\Debug\05.GameInfo.exe
+C:\Users\someo\source\repos\Exam28And29July2018\05.GameInfo\bin\Debug\05.GameInfo.pdb
+C:\Users\someo\source\repos\Exam28And29July2018\05.GameInfo\obj\Debug\05.GameInfo.csprojAssemblyReference.cache
+C:\Users\someo\source\repos\Exam28And29July2018\05.GameInfo\obj\Debug\05.GameInfo.csproj.CoreCompileInputs.cache
+C:\Users\someo\source\repos\Exam28And29July2018\05.GameInfo\obj\Debug\05.GameInfo.exe
+C:\Users\someo\source\repos\Exam28And29July2018\05.GameInfo\obj\Debug\05.GameInfo.pdb

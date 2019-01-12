@@ -7,7 +7,7 @@
     <ProjectGuid>{E7DED2C3-91FA-4020-B1E0-800093107E7C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_04.GroupStage</RootNamespace>
-    <AssemblyName>_04.GroupStage</AssemblyName>
+    <AssemblyName>04.GroupStage</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -7,7 +7,7 @@
     <ProjectGuid>{EE003C36-13EF-4305-941E-10AD936193E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_06.TicketCombination</RootNamespace>
-    <AssemblyName>_06.TicketCombination</AssemblyName>
+    <AssemblyName>06.TicketCombination</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
